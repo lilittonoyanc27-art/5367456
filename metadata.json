@@ -1,0 +1,6 @@
+{
+  "name": "ÁLVARO SOLER — ESPAÑOL EN ACCIÓN",
+  "description": "Aprende español con la entrevista de Álvaro Soler: subtítulos interactivos en español y armenio, vocabulario y más de 15 juegos interactivos con panel para el profesor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
